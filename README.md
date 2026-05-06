@@ -1,4 +1,4 @@
-# Salary Prediction Model
+# Machine_Learning_Salary_Prediction
 
 ## Project Overview
 
@@ -23,7 +23,7 @@ The dataset is stored in `Salary_Data.csv` and includes the following columns:
 
 ## Model Training
 
-The notebook `Syntecxhub_  Project_  Name.ipynb` executes the following steps:
+The notebook `Syntecxhub_Project_Machine_Learning_Salary_Prediction.ipynb` executes the following steps:
 
 1. Import required libraries (`pandas`, `numpy`, `sklearn`).
 2. Load the dataset from `Salary_Data.csv`.
@@ -57,7 +57,7 @@ The multiple feature linear regression model performed better than the single fe
 ## Files in the Project
 
 - `Salary_Data.csv` - Dataset file.
-- `Syntecxhub_  Project_  Name.ipynb` - Jupyter notebook with model training and evaluation.
+- `Syntecxhub_Project_Machine_Learning_Salary_Prediction.ipynb` - Jupyter notebook with model training and evaluation.
 - `best_salary_model.pkl` - Serialized best model artifact.
 - `README.md` - Project summary and instructions.
 
@@ -65,7 +65,7 @@ The multiple feature linear regression model performed better than the single fe
 
 To reproduce the training and evaluation:
 
-1. Open `Syntecxhub_  Project_  Name.ipynb`.
+1. Open `Syntecxhub_Project_Machine_Learning_Salary_Prediction.ipynb`.
 2. Execute all cells.
 3. The notebook will train the model, evaluate performance, and save the final artifact.
 
